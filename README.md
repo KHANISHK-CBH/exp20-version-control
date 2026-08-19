@@ -5,5 +5,12 @@
 2. Feature Branches: Created for individual module developments (module-auth, module-docs).
 3. Pull Requests: Code changes are merged via PRs after peer review.
 4. Conflict Resolution: Merge conflicts are handled locally before finalizing PRs.
+<<<<<<< HEAD
+Project Status: Module Docs version updateProject Status: Main branch initial version.
+Project Status: Module Docs version updated.
+
+Project Status: Version Docs 2.0
+=======
 Project Status: Main branch initial version.
 Project Status: Version Main 1.0
+>>>>>>> main
